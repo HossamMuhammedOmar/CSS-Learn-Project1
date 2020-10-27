@@ -1,1 +1,1 @@
-# CSS 🌟 Learn 💪 'Project One' 🙅‍♂️
+# CSS Learn 'Project One'
